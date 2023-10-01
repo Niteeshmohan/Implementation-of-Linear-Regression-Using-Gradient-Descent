@@ -91,31 +91,31 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 ## Output:
 ### Profit prediction:
 
-![img](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/ee8f17a5-0da1-4cac-a04e-7cc713fa5bc0)
+![img](out1.png)
 
 ### Function output:
 
-![img](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/e782a2c3-7adf-48fc-b15d-8a5a27773e82)
+![img](out2.png)
 
 ### Gradient descent:
 
-![img](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/5abb3f34-b344-49d2-aa64-fcebca3f3acc)
+![img](out3.png)
 
 ### Cost function using Gradient Descent:
 
-![img](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/213be6b8-a5d8-433f-bcd0-75f73edbff98)
+![img](out4.png)
 
 ### Linear Regression using Profit Prediction:
 
-![img](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/d41d1d08-52d9-4a93-88cf-11ca7fdb544b)
+![img](out5.png)
 
 ### Profit Prediction for a population of 35000:
 
-![img](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/43f982a1-bbcc-4910-9ef0-794ff2421d33)
+![img](out6.png)
 
 ### Profit Prediction for a population of 70000 :
 
-![img](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/f1cf50b4-0a6e-4d34-bb8f-683c9b6923ab)
+![img](out7.png)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
